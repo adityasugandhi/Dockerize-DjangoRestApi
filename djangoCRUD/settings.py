@@ -87,6 +87,7 @@ DATABASES = {
     # }
 
    'default': {
+       'ENGINE': 'djongo',
        'ENFORCE_SCHEMA': True,
         'NAME': 'django-crud',
         'HOST': 'mongodb',
