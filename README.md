@@ -37,7 +37,7 @@
      $ sudo docker exec -it <CONTAINER_ID> /bin/sh
      * In the shell
      $ python manage.py shell < add_data.py
-     * EXIT frome shell $ exit
+     * EXIT from shell $ exit
 
 
   # CRUD operation 
