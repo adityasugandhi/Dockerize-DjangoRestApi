@@ -31,8 +31,13 @@
         $ sudo docker compose  up -d --build
      ```
     * Now our Containers are Up and running
-    * To check the status of our containers 
+    * To check the status of our containers  and get the Container ID for our app
      $ sudo docker ps 
+     * Addind Json to our Mongodb server
+     $ sudo docker exec -it <CONTAINER_ID> /bin/sh
+     * In the shell
+     $ python manage.py shell < add_data.py
+     * EXIT frome shell $ exit
 
 
   # CRUD operation 
