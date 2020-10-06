@@ -42,20 +42,24 @@
 
   # CRUD operation 
 
-  * open your brownser 
+  * open your browser 
      * Enter the following : 
         serveraddress/URLs  to perform Actions
     * 0.0.0.0:8000/URLS or 127.0.0.1:8000/URLS or localhost:8000/URLS
 
     |Methods | URLs             | Actions              |
     | ---    | -----------      | -------------------- |
-    | GET    |	api/products/   |	get all products   | 
+    | GET    |	api/products/    |	get all products   | 
     | GET	 | api/products/:id |	get product by id  |
     | POST	 | api/products/    |	add new product    |
     | PUT	 | api/products/:id/| update product by id |
     | DELETE | api/products/:id/| remove product by id |
     | DELETE | api/products/ 	| remove all products  |
-
+ # Web UI
+  * Enter the following address to access the Api server
+    https://0.0.0.0:8000  
+  * To perform CRUD operations
+    https://0.0.0.0:8000/URLS 
   
  
 
