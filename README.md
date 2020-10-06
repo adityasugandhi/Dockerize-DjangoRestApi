@@ -45,7 +45,7 @@
   * open your brownser 
      * Enter the following : 
         serveraddress/URLs  to perform Actions
-    * 0.0.0.0:8000/URLS or 127.0.0.1:8000/URLS or localhost/URLS
+    * 0.0.0.0:8000/URLS or 127.0.0.1:8000/URLS or localhost:8000/URLS
 
     |Methods | URLs             | Actions              |
     | ---    | -----------      | -------------------- |
