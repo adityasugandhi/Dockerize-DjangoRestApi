@@ -59,6 +59,8 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
   * To perform CRUD operations
     https://0.0.0.0:8000/URLS 
   
+  # API Exposed Endpoints Screenshot Via POSTMAN
+  
  
 
 # Additional Information
