@@ -60,6 +60,14 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
     https://0.0.0.0:8000/URLS 
   
   # API Exposed Endpoints Screenshot Via POSTMAN
+   * READ 
+   * ![READ](https://github.com/adityasugandhi/Dockerize-DjangoRestApi/blob/master/Postman/Read.png)
+   * DELETE
+     ![DELETE](https://github.com/adityasugandhi/Dockerize-DjangoRestApi/blob/master/Postman/Delete%20Sucess.png)
+   * Post_Delete
+      ![Delete_Suceess](https://github.com/adityasugandhi/Dockerize-DjangoRestApi/blob/master/Postman/Delete.png)
+   * Update
+      ![UPDATE](https://github.com/adityasugandhi/Dockerize-DjangoRestApi/blob/master/Postman/Update.png)
   
  
 
